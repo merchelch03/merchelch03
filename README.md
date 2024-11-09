@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Mercedes León Chaves.
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning, I am a dual-degree student in Computer Engineering and Business Administration. I'm in my four year. 
+<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
+<br>
 
-<!---
-merchelch03/merchelch03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
