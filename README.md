@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mercedes León Chaves</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">I am a dual-degree student in Computer Engineering and Business Administration🌟.</h3>
 
 <br>
 
