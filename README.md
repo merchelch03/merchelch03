@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **leonchavesmerche@gmail.com**
 
-- ⚡ Fun fact :- My passions are technology.
+- ⚡ Fun fact :- My passion IS technology.
 
 <br>
 
