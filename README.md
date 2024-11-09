@@ -26,7 +26,6 @@
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -41,4 +40,4 @@
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     </a> </p>
 
-<br>
+
