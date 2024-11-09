@@ -2,10 +2,6 @@
 <h3 align="center">I am a dual-degree student in Computer Engineering and Business Administration🌟.</h3>
 
 
-
-<p align="right"> <h3>Profile Views :-</h3> 
-  </p>
-
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
