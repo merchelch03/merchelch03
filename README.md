@@ -38,4 +38,4 @@
     </a> </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=merchelch03&theme=dark&hide_border=verdadero&short_numbers=FALSO" alt="GitHub Streak" /></a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
